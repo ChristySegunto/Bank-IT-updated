@@ -1,1 +1,3 @@
 # Bank-IT-updated
+
+Bank IT is a type of ATM system where the name is derived from its basic functionality of lodging and withdrawing money just like a traditional bank does and IT came from its very programmers, an Information Technology student. Bank IT is a system built to answer the needs of the Filipinos in terms of healthy banking and financial decisions that is done in their fingertips. Bank IT works simply by just encoding bank acocount details such as: Account name and account number then it enables its user to: Check balance, withdraw, deposit and change pins with just a combination of several clicks from their personal computers or laptops.
